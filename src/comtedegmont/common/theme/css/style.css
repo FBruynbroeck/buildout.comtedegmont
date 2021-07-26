@@ -1,0 +1,9 @@
+#content-header {
+    background-image: url(/++theme++custom/images/banner_top.jpeg);
+    background-size: cover;
+    min-height: 200px;
+    background-position: 25% 75%;
+}
+#portal-header {
+    margin: 0;
+}
